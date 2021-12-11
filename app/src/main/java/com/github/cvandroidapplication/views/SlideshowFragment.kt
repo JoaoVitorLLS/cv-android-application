@@ -1,4 +1,4 @@
-package com.github.cvandroidapplication.ui.slideshow
+package com.github.cvandroidapplication.views
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,8 +8,8 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.github.cvandroidapplication.R
 import com.github.cvandroidapplication.databinding.FragmentSlideshowBinding
+import com.github.cvandroidapplication.viewmodels.SlideshowViewModel
 
 class SlideshowFragment : Fragment() {
 

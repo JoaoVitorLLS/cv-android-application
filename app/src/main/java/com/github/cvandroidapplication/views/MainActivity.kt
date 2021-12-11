@@ -1,4 +1,4 @@
-package com.github.cvandroidapplication
+package com.github.cvandroidapplication.views
 
 import android.os.Bundle
 import android.view.Menu
@@ -11,6 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
+import com.github.cvandroidapplication.R
 import com.github.cvandroidapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

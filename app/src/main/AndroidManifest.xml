@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CV">
         <activity
-            android:name=".MainActivity"
+            android:name=".views.MainActivity"
             android:exported="false"
             android:label="@string/title_activity_main"
             android:theme="@style/Theme.CV.NoActionBar" />

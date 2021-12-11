@@ -1,4 +1,4 @@
-package com.github.cvandroidapplication.ui.gallery
+package com.github.cvandroidapplication.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
